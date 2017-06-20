@@ -5,3 +5,6 @@
 *.elf
 *.hex
 *.lss
+*.kicad_pcb-bak
+*.bak
+_autosave*
