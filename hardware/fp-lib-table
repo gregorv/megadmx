@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name xlr)(type KiCad)(uri /home/gregor/projekte/elektronik/compressor/xlr.pretty)(options "")(descr ""))
+)
